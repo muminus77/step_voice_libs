@@ -1,0 +1,6 @@
+*instalacja epspeak
+sudo apt-get install espeak espeak-data libespeak-dev
+
+*instalacja MBrola voice:
+http://askubuntu.com/questions/554747/how-to-install-more-voices-to-espeak
+http://www.tcts.fpms.ac.be/synthesis/mbrola/
